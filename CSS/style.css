@@ -38,7 +38,6 @@ body {
   font-weight: 400;
   background-color: var(--color3);
   overflow-x: hidden;
-  z-index: 1;
 }
 
 /* //////////////////////////// */
@@ -293,8 +292,8 @@ body {
 
 .blog-footer {
   position: absolute;
-  bottom: -80rem;
-  left: 10rem;
+  bottom: -90rem;
+  left: -10rem;
 }
 .big {
   width: 152rem;
@@ -319,8 +318,8 @@ body {
 }
 .woman-body {
   position: absolute;
-  top: 32rem;
-  left: 32rem;
+  top: 80rem;
+  left: 90rem;
   z-index: 1;
 }
 .bf-container {
