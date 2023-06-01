@@ -72,6 +72,7 @@ body {
   justify-content: space-between;
   gap: 7.2rem;
   align-items: center;
+  justify-content: center;
   padding-top: 2rem;
 }
 .link {
@@ -183,7 +184,6 @@ body {
 /* blog article section */
 /* //////////////////////////// */
 .section-blog-article {
-  background-color: #8a74421e;
   height: 290rem;
   position: relative;
 }
@@ -193,7 +193,6 @@ body {
   background-position: 100%;
   width: 195rem;
   height: 290rem;
-  z-index: 1;
 }
 
 .blog-qoute {
@@ -370,7 +369,6 @@ body {
   background-position: center;
   width: 192rem;
   height: 98rem;
-  z-index: 1;
 }
 .testmonial-qoute {
   color: var(--color1);

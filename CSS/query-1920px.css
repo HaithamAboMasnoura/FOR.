@@ -1,0 +1,25 @@
+:root {
+  --white: #ffffff;
+
+  --color1: #f7e7ce;
+
+  --color2: #e8dcc3;
+
+  --color3: #e2d2b6;
+
+  --bronze: #8a7442;
+
+  --orange: #be6c42;
+
+  --brown: #713c25;
+}
+
+/* //////////////////////////// */
+/* max-width: 1920px */
+/* //////////////////////////// */
+
+@media (max-width: 120em) {
+  html {
+    font-size: 62.5%;
+  }
+}
