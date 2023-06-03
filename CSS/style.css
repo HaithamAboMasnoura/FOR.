@@ -44,56 +44,6 @@ body {
 }
 
 /* //////////////////////////// */
-/* Media Queries */
-/* //////////////////////////// */
-
-@media (max-width: 160em) {
-  html {
-    font-size: 82%;
-  }
-}
-@media (max-width: 120em) {
-  html {
-    font-size: 62.5%;
-  }
-}
-@media (max-width: 90em) {
-  html {
-    font-size: 46%;
-  }
-}
-@media (max-width: 64em) {
-  html {
-    font-size: 33%;
-  }
-}
-@media (max-width: 48em) {
-  html {
-    font-size: 25%;
-  }
-}
-@media (max-width: 26.6em) {
-  html {
-    font-size: 13.6%;
-  }
-}
-@media (max-width: 23.5em) {
-  html {
-    font-size: 12%;
-  }
-}
-@media (max-width: 23.5em) {
-  html {
-    font-size: 11.6%;
-  }
-}
-@media (max-width: 20em) {
-  html {
-    font-size: 10.4%;
-  }
-}
-
-/* //////////////////////////// */
 /* header section */
 /* //////////////////////////// */
 
@@ -822,6 +772,243 @@ footer {
   padding-bottom: 4.4rem;
 }
 
+/* //////////////////////////// */
+/* Media Queries */
+/* //////////////////////////// */
+
+@media (max-width: 160em) {
+  html {
+    font-size: 82%;
+  }
+}
+@media (max-width: 120em) {
+  html {
+    font-size: 62.5%;
+  }
+}
+@media (max-width: 90em) {
+  html {
+    font-size: 46%;
+  }
+}
+@media (max-width: 64em) {
+  html {
+    font-size: 33%;
+  }
+}
+@media (max-width: 48em) {
+  html {
+    font-size: 25%;
+  }
+}
+@media (max-width: 26.6em) {
+  html {
+    font-size: 13.6%;
+  }
+  .hero-padge {
+    width: 12vw;
+    top: -4rem;
+  }
+  .nav-logo {
+    width: 7.6vw;
+    height: 9rem;
+  }
+  .header-logo {
+    width: 6vw;
+  }
+  .link {
+    font-size: 5rem;
+    padding-top: 2rem;
+  }
+  .menu-img {
+    width: 2.5vw;
+  }
+  .year {
+    margin-left: -29.4rem;
+  }
+  .bottom-word {
+    width: 1vw;
+    font-size: 3.6rem;
+  }
+  .video {
+    width: 16vw;
+  }
+  .btn-play {
+    width: 3vw;
+    right: 18rem;
+  }
+  .play-text {
+    font-size: 3.2rem;
+  }
+  .blog-qoute {
+    width: 280vw;
+    font-size: 4.4rem;
+    letter-spacing: 0.24rem;
+  }
+  .section-title {
+    font-size: 3.2rem;
+  }
+  .blog-img-box {
+    height: 326rem;
+  }
+  .discover-container {
+    display: flex;
+    flex-direction: column;
+    padding-right: 46rem;
+    gap: 10rem;
+  }
+  .discover-text1 {
+    font-size: 4.4rem;
+  }
+  .discover-btn {
+    font-size: 3.2rem;
+  }
+  .discover-text2,
+  .bf-container,
+  .woman-body {
+    display: none;
+  }
+  .blog-footer {
+    bottom: -126rem;
+  }
+  .section-testmonials {
+    margin-top: 76rem;
+  }
+  .author {
+    font-size: 4.4rem;
+    padding: 0 18rem;
+  }
+  .testmonial-text {
+    font-size: 52rem;
+    padding: 0 28rem;
+  }
+  .lb-padge {
+    width: 12vw;
+    height: 22rem;
+  }
+  .discover-text1 {
+    font-size: 5.2rem;
+  }
+  .look-padge {
+    width: 22.8vw;
+    top: 14rem;
+    right: 6rem;
+  }
+  .lb-btn {
+    bottom: 16rem;
+  }
+  .promo-video {
+    bottom: -38rem;
+    gap: 9.4rem;
+  }
+  .promo-text {
+    font-size: 5.2rem;
+  }
+  .promo-img {
+    width: 36vw;
+  }
+  .promo-btn {
+    width: 4vw;
+    bottom: 5.2rem;
+  }
+  .section-collections {
+    height: 536rem;
+  }
+  .collection-word3 {
+    font-size: 3.8rem;
+    right: -12rem;
+  }
+  .collection-text {
+    font-size: 5.2rem;
+    padding: 0 56rem 0 12rem;
+    margin-bottom: 50rem;
+  }
+  .edition {
+    transform: scale(180%);
+  }
+  .collection {
+    margin: 0 20rem 0 58rem;
+    width: 27.1vw;
+    height: 82rem;
+  }
+  .collection-1 {
+    bottom: -268rem;
+    left: -50rem;
+  }
+  .collection-2 {
+    bottom: -122rem;
+    left: -28rem;
+  }
+  .collection-3 {
+    right: 42rem;
+  }
+  .collection-btn {
+    bottom: -299rem;
+    left: 30rem;
+  }
+  .section-wisdom {
+    height: 86rem;
+  }
+  .wisdom-padge {
+    width: 14vw;
+    left: 86rem;
+  }
+  .wisdom-text {
+    font-size: 5.2rem;
+    padding: 6rem 23rem;
+  }
+  .wisdom-link:link,
+  .wisdom-link:visited {
+    font-size: 4.4rem;
+    left: 88rem;
+  }
+  footer {
+    height: 148rem;
+  }
+  .footer-container {
+    grid-template-columns: 1fr;
+    column-gap: 20rem;
+  }
+  .social-text1 {
+    font-size: 7.2rem;
+  }
+  .social-text2 {
+    font-size: 5.2rem;
+  }
+  .information {
+    flex-direction: row;
+    grid-row: 3/4;
+  }
+  .inf-links {
+    font-size: 4.4rem;
+  }
+  .social {
+    grid-column: 1/2;
+  }
+  .social-media {
+    font-size: 4.8rem;
+  }
+  .info-footer {
+    font-size: 5.2rem;
+    grid-column: 2/3;
+    grid-row: 3/4;
+  }
+}
+@media (max-width: 23.5em) {
+  html {
+    font-size: 12%;
+  }
+}
+@media (max-width: 22.5em) {
+  html {
+    font-size: 11.6%;
+  }
+}
+@media (max-width: 20em) {
+  html {
+    font-size: 10.4%;
+  }
+}
 /* //////////////////////////// */
 /* Finish */
 /* //////////////////////////// */
