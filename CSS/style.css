@@ -848,12 +848,12 @@ footer {
 }
 @media (max-width: 85.5em) {
   html {
-    font-size: 44.5%;
+    font-size: 44%;
   }
 }
 @media (max-width: 80em) {
   html {
-    font-size: 41.8%;
+    font-size: 41.2%;
   }
 }
 @media (max-width: 77em) {
