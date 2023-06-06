@@ -781,9 +781,59 @@ footer {
     font-size: 82%;
   }
 }
+@media (max-width: 155em) {
+  html {
+    font-size: 80.5%;
+  }
+}
+@media (max-width: 151.5em) {
+  html {
+    font-size: 78.5%;
+  }
+}
+@media (max-width: 147.5em) {
+  html {
+    font-size: 76.5%;
+  }
+}
+@media (max-width: 143.5em) {
+  html {
+    font-size: 74.5%;
+  }
+}
+@media (max-width: 139.5em) {
+  html {
+    font-size: 72.5%;
+  }
+}
+@media (max-width: 135.75em) {
+  html {
+    font-size: 70.5%;
+  }
+}
+@media (max-width: 132em) {
+  html {
+    font-size: 68.5%;
+  }
+}
+@media (max-width: 130em) {
+  html {
+    font-size: 66%;
+  }
+}
+@media (max-width: 125em) {
+  html {
+    font-size: 64%;
+  }
+}
 @media (max-width: 120em) {
   html {
     font-size: 62.5%;
+  }
+}
+@media (max-width: 105em) {
+  html {
+    font-size: 54%;
   }
 }
 @media (max-width: 90em) {
@@ -791,14 +841,39 @@ footer {
     font-size: 46%;
   }
 }
+@media (max-width: 77em) {
+  html {
+    font-size: 39.5%;
+  }
+}
 @media (max-width: 64em) {
   html {
     font-size: 33%;
   }
 }
+@media (max-width: 56em) {
+  html {
+    font-size: 29%;
+  }
+}
 @media (max-width: 48em) {
   html {
     font-size: 25%;
+  }
+}
+@media (max-width: 40em) {
+  html {
+    font-size: 20.8%;
+  }
+}
+@media (max-width: 35em) {
+  html {
+    font-size: 18.2%;
+  }
+}
+@media (max-width: 30em) {
+  html {
+    font-size: 15.6%;
   }
 }
 @media (max-width: 26.6em) {
@@ -841,7 +916,7 @@ footer {
     font-size: 3.2rem;
   }
   .blog-qoute {
-    width: 280vw;
+    width: 500vw;
     font-size: 4.4rem;
     letter-spacing: 0.24rem;
   }
@@ -1002,6 +1077,26 @@ footer {
 @media (max-width: 22.5em) {
   html {
     font-size: 11.6%;
+  }
+}
+@media (max-width: 22em) {
+  html {
+    font-size: 11.36%;
+  }
+}
+@media (max-width: 21.5em) {
+  html {
+    font-size: 11.12%;
+  }
+}
+@media (max-width: 21em) {
+  html {
+    font-size: 10.88%;
+  }
+}
+@media (max-width: 20.5em) {
+  html {
+    font-size: 10.64%;
   }
 }
 @media (max-width: 20em) {
