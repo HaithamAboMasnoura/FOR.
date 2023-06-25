@@ -153,8 +153,8 @@ body {
   color: var(--orange);
   opacity: 20%;
   position: absolute;
-  top: 21%;
-  left: -16.5%;
+  top: 19.5%;
+  left: -15.2%;
 }
 .upper-word {
   color: var(--color1);
@@ -162,13 +162,13 @@ body {
   font-size: 9.4vw;
   position: absolute;
   top: -4%;
-  left: 36%;
+  left: 37%;
   letter-spacing: -0.5vw;
 }
 .middle-word {
   color: var(--orange);
   font-family: "Playfair";
-  font-size: 20.9vw;
+  font-size: 22vw;
   text-align: center;
   margin-top: 5.2vw;
   z-index: 1;
@@ -177,7 +177,7 @@ body {
   color: var(--orange);
   font-size: 1.25vw;
   position: absolute;
-  top: 38%;
+  top: 40%;
   left: 17.4%;
 }
 .hero-img {
@@ -485,7 +485,7 @@ body {
   font-weight: 100;
   position: absolute;
   top: 32%;
-  right: 6%;
+  right: 8%;
   z-index: 2;
   letter-spacing: -1vw;
 }
